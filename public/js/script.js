@@ -13,7 +13,7 @@ document.getElementById('analyzeBtn').addEventListener('click', async () => {
     explanationEl.textContent = "";
   
     try {
-      const response = await fetch("https://fakenews-backend.onrender.com/analyze", {
+      const response = await fetch("https://fakenewsdetector-15qv.onrender.com/analyze", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
