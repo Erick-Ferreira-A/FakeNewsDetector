@@ -16,7 +16,11 @@ Este projeto tem como objetivo identificar e analisar notícias para detectar po
 - APIs externas para análise de notícias
 - .env para variáveis de ambiente
 
-## Como rodar o projeto
+  ## Acesse o site e faça seus testes:
+
+  https://fakenewsdetector-15qv.onrender.com
+
+## Como rodar o projeto no seu computador
 
 1. Clone este repositório:
    ```bash
